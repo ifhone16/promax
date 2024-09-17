@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ifhone16.github.io/promax/sitemap.xml
